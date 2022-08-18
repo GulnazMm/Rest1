@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y9i0evgmpq02ahs5?svg=true)](https://ci.appveyor.com/project/GulnazMm/avtocard)
