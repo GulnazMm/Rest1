@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/25srlget29h0ebjt?svg=true)](https://ci.appveyor.com/project/GulnazMm/rest-avto-2s6od)
+[![Build status](https://ci.appveyor.com/api/projects/status/pop2mm13kvudtro7?svg=true)](https://ci.appveyor.com/project/GulnazMm/restapi-pj1mm)
