@@ -20,7 +20,6 @@ public class ServiceTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body ("[3].value", greaterThanOrEqualTo(0))
-        ;
+                .body(/* --> ваша проверка здесь <-- */);
     }
 }

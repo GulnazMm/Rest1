@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a9h230f1kmanoywo?svg=true)](https://ci.appveyor.com/project/GulnazMm/restapi)
